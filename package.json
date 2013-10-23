@@ -1,0 +1,28 @@
+{
+  "name": "lhs",
+  "version": "0.0.0",
+  "description": "Adaptation to JavaScript of randomLHS.R (by Doug Mooney, Rob Carnell) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plom-io/lhs.git"
+  },
+  "keywords": [
+    "random",
+    "Latin",
+    "Hyper",
+    "Square",
+    "LHS"
+  ],
+  "author": "Sebastien Ballesteros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plom-io/lhs/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
